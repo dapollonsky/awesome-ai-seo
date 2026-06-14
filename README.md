@@ -32,6 +32,7 @@
 * **[NeuronWriter](https://neuronwriter.com/)** – Semantic keyword and NLP-based content editor.
 * **[MarketMuse](https://www.marketmuse.com/)** – Content planning and optimization with AI scoring.
 * **[Scalenut](https://www.scalenut.com/)** – AI-driven SEO content strategy and generation.
+* **[oohoom](https://www.oohoom.com)** – Get the most out of your GSC and GA4 using AI Assistant and MCP
 
 ## Open-Source Projects
 
